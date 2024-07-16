@@ -1,0 +1,15 @@
++World
+1 1 1 1 5 5 3
+3 2 5 7 5 5 7
+1 5 6 3 2 2 7
+1 5 3 3 3 2 7
+7 7 7 7 7 7 7
++Start
+Resource 1 Wood 1 1
+Build City 1 1
+Build Road 21 1
+Build Road 26 1
++Input
+Select 1 1
++Asserts
+SelectedResource
